@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZO7xgPjAyuJDw1qP0nAnDXBtd15Hq5Jz7ldfACqopBy6bgpHI1o7lask+IW9OFdg/GPx5E4p9O8uszUJpoCQrA==",
+  "success": true,
+  "projectFilePath": "C:\\ProjetosTestesUnidade\\Store\\Store.Domain\\Store.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Standilley-Dev\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
