@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Store.Tests\\Domain"
+    "\\Store.Domain",
+    "\\Store.Tests",
+    "\\Store.Tests\\Repositories"
   ],
-  "SelectedNode": "\\Store.Domain",
+  "SelectedNode": "\\Store.Tests\\Store.Tests.csproj",
   "PreviewInSolutionExplorer": false
 }

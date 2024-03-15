@@ -10,3 +10,4 @@ C:\ProjetosTestesUnidade\Store\Store.Domain\obj\Debug\net8.0\Store.Domain.dll
 C:\ProjetosTestesUnidade\Store\Store.Domain\obj\Debug\net8.0\refint\Store.Domain.dll
 C:\ProjetosTestesUnidade\Store\Store.Domain\obj\Debug\net8.0\Store.Domain.pdb
 C:\ProjetosTestesUnidade\Store\Store.Domain\obj\Debug\net8.0\ref\Store.Domain.dll
+C:\ProjetosTestesUnidade\Store\Store.Domain\obj\Debug\net8.0\Store.Domain.sourcelink.json
