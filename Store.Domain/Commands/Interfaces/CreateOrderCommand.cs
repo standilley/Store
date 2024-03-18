@@ -34,6 +34,7 @@ namespace Store.Domain.Commands.Interfaces
                 .Requires()
                 .IsLowerThan(Customer, 11, "Customer", "Cliente inválido")
                 .AreEquals(ZipCode, 8, "ZipCode", "CEP inválido")
+                .IsGreaterThan(Items.Count(), 0,  "Items", "Pedido sem itens")
                 );
         }
     }
